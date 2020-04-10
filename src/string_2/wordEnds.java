@@ -58,7 +58,9 @@ public static String wordEnds(String str, String word) {
 	
 	
 	
-	
+//This is a solution for advanced requirements -> it checks that no char will be added to the left or to the right of the word if it is another word to the left/right
+//e.g. wordEnds("XYXY", "XY") → "XY" will result in ordEnds("XYXY", "XY") -> "" etc. 
+
 	
 
 public static String wordEndsAdvancedSolution(String str, String word) {
