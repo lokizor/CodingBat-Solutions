@@ -21,13 +21,16 @@ public class gHappy {
 	
 	public static boolean gHappy(String str) {
 		
+		if (str.length() == 1 && str.equals("g")) {
+			return false;
+		}
+		
 		char[] arr = str.toCharArray();
 		
 		for (int i = 1; i < arr.length; i++) {
 			
 			if (arr[i] == 'g') {
-				
-				//xxgg
+
 				if (i+1 == arr.length) {
 					if (!(arr[i-1] =='g')) {
 						return false;
