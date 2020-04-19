@@ -14,20 +14,12 @@ public class withoutString {
 	
 	
 	public static String withoutString(String base, String remove) {
-	//	TODO: withoutString("This is a FISH", "IS") → "Th a FH"	"This is a FH"
-	//TODO: overpalling instances 
-		
-		
+
 	 String newString = "";
 	 char[] arr = base.toCharArray(); 
 	
-	 
 	 for (int i =0; i < arr.length; i++) {
-		 
-		 //thiS is FH ; // word given: IS ;  
-		 
-		 
-		 
+
 		 if (i+remove.length() <= base.length()) {
 		 String possibleCandidate = (base.substring(i, i+remove.length())).toLowerCase();
 		 
@@ -40,8 +32,6 @@ public class withoutString {
 		 newString += "" + arr[i];
 	
 	 }
-
 	  return newString;
 	}
-
 }
