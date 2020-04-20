@@ -46,49 +46,6 @@ public class sameEnds {
 		
 		
 		return "";
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 	}
 }
-	
-		
-		
-		
-		
-		
-		/*
-		
-	   for (int i = 0; i < arr.length; i++) {
-		   
-		   //abcabc xyyx 
-		   if (arr.length % 2 ==0) {
-			   
-			  // 1 part 
-			  int startIndex = i; 
-			  int middleIndex = i + string.length() / 2;
-			  
-			  
-			  String start = string.substring(startIndex, middleIndex);
-			  
-			  
-			  int endStartIndex = startIndex + middleIndex;
-			  int endMiddleIndex = endStartIndex + string.length() / 2;
-			  //2 part 
-			  String end = string.substring(endStartIndex, endMiddleIndex);
-			  
-			  
-			   
-			   
-		   }
-			*/
-	
