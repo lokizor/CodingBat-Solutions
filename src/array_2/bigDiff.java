@@ -15,15 +15,14 @@ public class bigDiff {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	//	int a = bigDiffa({1,2}); //what are those errors? The solution is correct;
+		//int a = 5; -works
+		int[] arr = {1,2,3}; // ERROR IF int a = bigDiffa({1,2,3}); Errir because java is STRONGLY-TYPED langauge 
 		
 		
-		int a = bigDiffa({1,2}); //what are those errors? The solution is correct;
-		
-		System.out.println();
-		System.out.println();
-		
-
+		int a = bigDiffa(new int[]{1,2,3}); // BUT bigDiffa(arr) works;
+		//otherwise: Syntax error on token =, @expected after this token; syntax error, insert simpleName to complete expression
+		System.out.println(a);
 	}
 	
 	public static int bigDiffa(int[] nums) {
@@ -45,7 +44,4 @@ public class bigDiff {
 		return Math.abs(smallestValue-biggestValue);
 		
 	}
-	
-	
-
 }
