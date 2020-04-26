@@ -13,9 +13,11 @@ public class no14 {
 	
 	public static boolean no14(int[] nums) {
 		
-		if (nums.length == 0) return false;
+		if (nums.length == 0) return true;
 		
-		
+		if (nums.length ==1) return true;
+			
+			
 				
 		boolean noFours = true;
 		boolean noOnes = true;
