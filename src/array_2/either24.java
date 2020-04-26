@@ -20,6 +20,8 @@ public class either24 {
 	
 	public static boolean either24(int[] nums) {
 		
+		if (nums.length <2) return false;
+		
 		boolean contains2 = false;
 		boolean contains4 = false;
 		
