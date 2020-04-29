@@ -33,7 +33,7 @@ public class modThree {
 			
 			boolean contains3od = false;
 			boolean contains3ev = false;
-			
+			//<= mistake here lol. 
 			for (int i = 0; i <= nums.length -3; i++) {
 				//2 1 3 4 
 				int a = nums[i];
