@@ -11,10 +11,40 @@ sameEnds([5, 6, 45, 99, 13, 5, 6], 3) → false
  */
 public class sameEnds {
 
+	public static void main(String[] args) {
+		System.out.println(sameEnds(new int[] {5,6,45,99,13,5,6}, 2));
+	}
 
 
-public boolean sameEnds(int[] nums, int len) {
+public static boolean sameEnds(int[] nums, int len) {
+	
+	//0 ... nums.lentgh. 
+	
+	String[] start = new String[len];
+	String[] end = new String[len];
+	
+	
+	String numsString = "";
+	for (int i =0; i < len; i++) {
+		start[i] += String.valueOf(nums[i]);
+	}
+	
+	int y = 0;
+	for (int i=nums.length - len; i < nums.length; i++) {
+		end[y] +=String.valueOf(nums[i]);
+		y++;
+	}
+		
+	for (int i = 0; i < len; i++) {
+		if (!(start[i].equals(end[i]))) {
+			return false;
+		}
+	}
+	
+	return true;
+	
+}
 	  
 }
-}
+
 
