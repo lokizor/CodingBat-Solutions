@@ -22,7 +22,7 @@ public class sum13 {
     }
 
     public static  int sum13(int[] nums) {
-
+        System.out.println("TRYING TO COMMIT");
         int sum = 0;
         for (int i = 0; i < nums.length; i++) {
 
