@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CodingBat-Solutions" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CodingBat-Solutions" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4522c75-fd5c-4888-825f-5d0942c08163" name="Default Changelist" comment="Hii" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1g7fHOsCZHx0SLZIvgbCKDr3lZl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="sum13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_2_2.sum13" />
+      <module name="CodingBat-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array_2_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sum13" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4522c75-fd5c-4888-825f-5d0942c08163" name="Default Changelist" comment="" />
+      <created>1597470463017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597470463017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1867" y="275" width="588" height="357" key="#Notifications" timestamp="1597950862796">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1867" y="275" width="588" height="357" key="#Notifications/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597950862796" />
+    <state x="1649" y="27" width="1024" height="852" key="#Project_Structure" timestamp="1597949326932">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1649" y="27" width="1024" height="852" key="#Project_Structure/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597949326932" />
+    <state x="1624" y="108" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597949342298">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1624" y="108" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597949342298" />
+    <state width="1554" height="225" key="GridCell.Tab.0.bottom" timestamp="1597950831339">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1554" height="225" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597950831339" />
+    <state width="1554" height="225" key="GridCell.Tab.0.center" timestamp="1597950831339">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1554" height="225" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597950831339" />
+    <state width="1554" height="225" key="GridCell.Tab.0.left" timestamp="1597950831339">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1554" height="225" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597950831339" />
+    <state width="1554" height="225" key="GridCell.Tab.0.right" timestamp="1597950831339">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state width="1554" height="225" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597950831339" />
+    <state x="1587" y="0" width="1216" height="852" key="SettingsEditor" timestamp="1597952768176">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="168" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1597470567254" />
+    <state x="1587" y="0" width="1216" height="852" key="SettingsEditor/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597952768176" />
+    <state x="1761" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597950201221">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1761" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597950201221" />
+    <state x="1947" y="365" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597950783716">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1947" y="365" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741/1366.0.1600.900@1366.0.1600.900" timestamp="1597950783715" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1597478040997">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1597478040997" />
+  </component>
+</project>
